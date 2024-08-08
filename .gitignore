@@ -1,0 +1,6 @@
+## Research Folder Ignore File ##
+
+pretrained_models/
+wandb/
+saved_models/
+__pycache__/
